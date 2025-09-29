@@ -2,4 +2,4 @@
 Este es mi primer proyecto con Git
 
 ## Descripcion
-Proyecto para aprender Git
+Proyecto para aprender Git. 
